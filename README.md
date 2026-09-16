@@ -20,7 +20,7 @@ A ready-to-install **agent team** for LobeHub / TripYoYo, tuned for **internal t
 ### Quick start
 
 ```bash
-git clone https://github.com/zj-ren/product-crew
+git clone https://github.com/Snakey-R/product-crew
 cd product-crew
 bash install.sh --tier full     # or --tier core / --tier extra
 ```
@@ -69,7 +69,7 @@ See [`SKILL.md`](./SKILL.md) for full documentation.
 ### 快速安装
 
 ```bash
-git clone https://github.com/zj-ren/product-crew
+git clone https://github.com/Snakey-R/product-crew
 cd product-crew
 
 # 3 种档位任选：

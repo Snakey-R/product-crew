@@ -4,8 +4,8 @@ description: A 10-agent product engineering team for LobeHub/TripYoYo. Turn a on
 tags: [product, engineering, agent-team, pipeline, prompts]
 license: MIT
 version: 1.0.0
-author: zj-ren
-repository: https://github.com/zj-ren/product-crew
+author: Snakey-R
+repository: https://github.com/Snakey-R/product-crew
 ---
 
 # product-crew
@@ -46,7 +46,7 @@ A ready-to-install **agent team** for LobeHub / TripYoYo, tuned for **internal t
 ### Install
 
 ```bash
-git clone https://github.com/zj-ren/product-crew
+git clone https://github.com/Snakey-R/product-crew
 cd product-crew
 
 # 3 tiers to choose from:
