@@ -1,9 +1,10 @@
 ---
 name: product-crew
+title: 1人就是一个团队-product-crew (One Person Is a Team)
 description: A 10-agent product engineering team for LobeHub/TripYoYo. Turn a one-line idea into shippable code via a 5-stage pipeline (PM → Architect → Frontend/Backend → QA → DevOps). Ships with prompts, orchestration guide, and one-command install.
 tags: [product, engineering, agent-team, pipeline, prompts]
 license: MIT
-version: 1.0.0
+version: 1.0.1
 author: Snakey-R
 repository: https://github.com/Snakey-R/product-crew
 ---

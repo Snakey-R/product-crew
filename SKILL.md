@@ -1,9 +1,10 @@
 ---
 name: product-crew
+title: 1人就是一个团队-product-crew
 description: 面向 LobeHub / TripYoYo 的 10 人 AI 产研团队 skill，让"一句话想法"经 PM→架构师→前端/后端→QA→DevOps 的 5 阶段流水线变成可交付代码。含 10 份精调 agent prompt、编排手册、一键部署脚本。
 tags: [product, engineering, agent-team, pipeline, prompts, 产研, 团队]
 license: MIT
-version: 1.0.0
+version: 1.0.1
 author: Snakey-R
 repository: https://github.com/Snakey-R/product-crew
 ---
